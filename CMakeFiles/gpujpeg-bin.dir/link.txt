@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gpujpeg-bin.dir/src/main.c.o  -o gpujpeg -Wl,-rpath,/home/456274/bakalarka/bakalarka/GPUJPEG: /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt libgpujpeg.so /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
